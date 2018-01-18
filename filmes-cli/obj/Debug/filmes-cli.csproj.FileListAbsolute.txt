@@ -1,0 +1,11 @@
+c:\users\b1el\documents\visual studio 2015\Projects\filmes-cli\filmes-cli\bin\Debug\filmes-cli.exe.config
+c:\users\b1el\documents\visual studio 2015\Projects\filmes-cli\filmes-cli\bin\Debug\filmes-cli.exe
+c:\users\b1el\documents\visual studio 2015\Projects\filmes-cli\filmes-cli\bin\Debug\filmes-cli.pdb
+c:\users\b1el\documents\visual studio 2015\Projects\filmes-cli\filmes-cli\bin\Debug\Newtonsoft.Json.dll
+c:\users\b1el\documents\visual studio 2015\Projects\filmes-cli\filmes-cli\bin\Debug\Newtonsoft.Json.xml
+c:\users\b1el\documents\visual studio 2015\Projects\filmes-cli\filmes-cli\obj\Debug\filmes-cli.csprojResolveAssemblyReference.cache
+c:\users\b1el\documents\visual studio 2015\Projects\filmes-cli\filmes-cli\obj\Debug\filmes_cli.Form1.resources
+c:\users\b1el\documents\visual studio 2015\Projects\filmes-cli\filmes-cli\obj\Debug\filmes_cli.Properties.Resources.resources
+c:\users\b1el\documents\visual studio 2015\Projects\filmes-cli\filmes-cli\obj\Debug\filmes-cli.csproj.GenerateResource.Cache
+c:\users\b1el\documents\visual studio 2015\Projects\filmes-cli\filmes-cli\obj\Debug\filmes-cli.exe
+c:\users\b1el\documents\visual studio 2015\Projects\filmes-cli\filmes-cli\obj\Debug\filmes-cli.pdb
