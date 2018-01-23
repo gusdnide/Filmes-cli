@@ -11,7 +11,7 @@ Desenvolvido para buscar filmes em torrent, e fazer stream dele para que voce po
 
 ## Instalaçao
 * Instalar todos softwares nescessarios
-* Extrair "Upload.zip" para a pasta do htdocs/ xampp ou /var/www/html no linux
+* Extrair "Upload.zip"(Pode ser baixado [aqui](https://github.com/gusdnide/Filmes-cli/releases/tag/1.1)) para a pasta do htdocs/ xampp ou /var/www/html no linux
 * Ligar o apache no xampp ou iniciar o apache2 no terminal do linux
 * Iniciar o programa
 
